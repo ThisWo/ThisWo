@@ -42,18 +42,18 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ThisWo&show_icons=true&hide_border=true&title_color=F7B2C9&icon_color=F7B2C9&text_color=888888&bg_color=00000000" alt="Stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisWo&layout=compact&hide_border=true&title_color=F7B2C9&text_color=888888&bg_color=00000000" alt="Top Languages" />
+<img height="160" src="https://github-readme-stats-one-bice.vercel.app/api?username=ThisWo&show_icons=true&hide_border=true&title_color=F7B2C9&icon_color=F7B2C9&text_color=888888&bg_color=00000000" alt="Stats" />
+<img height="160" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ThisWo&layout=compact&hide_border=true&title_color=F7B2C9&text_color=888888&bg_color=00000000" alt="Top Languages" />
 
 </div>
 
 <br/>
 
-### 🏆 成就
+### 🔥 连续贡献
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ThisWo&theme=dracula&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+<img src="https://streak-stats.demolab.com/?user=ThisWo&theme=rose-pine&hide_border=true&ring=F7B2C9&fire=F7B2C9&currStreakLabel=F7B2C9" alt="Streak Stats" />
 
 </div>
 
@@ -76,12 +76,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7B2C9,100:FFB7C5&height=80&section=footer" width="100%" alt="wave" />
-</div>
 
 <br/>
 
