@@ -42,8 +42,8 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-one-bice.vercel.app/api?username=ThisWo&show_icons=true&hide_border=true&title_color=F7B2C9&icon_color=F7B2C9&text_color=888888&bg_color=00000000" alt="Stats" />
-<img height="160" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ThisWo&layout=compact&hide_border=true&title_color=F7B2C9&text_color=888888&bg_color=00000000" alt="Top Languages" />
+<img height="160" src="https://github-readme-stats-one-bice.vercel.app/api?username=ThisWo&show_icons=true&hide_border=true&title_color=F7B2C9&icon_color=F7B2C9&text_color=888888&bg_color=00000000&locale=zh-cn" alt="Stats" />
+<img height="160" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ThisWo&layout=compact&hide_border=true&title_color=F7B2C9&text_color=888888&bg_color=00000000&locale=zh-cn" alt="Top Languages" />
 
 </div>
 
@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=ThisWo&theme=rose-pine&hide_border=true&ring=F7B2C9&fire=F7B2C9&currStreakLabel=F7B2C9" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=ThisWo&theme=rose-pine&hide_border=true&ring=F7B2C9&fire=F7B2C9&currStreakLabel=%E5%BD%93%E5%89%8D%E8%BF%9E%E7%BB%AD&longestStreakLabel=%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD&totalContributionsLabel=%E6%80%BB%E8%B4%A1%E7%8C%AE&sideLabelsColor=F7B2C9&currStreakNumColor=F7B2C9&longestStreakNumColor=F7B2C9&totalContributionsNumColor=F7B2C9" alt="Streak Stats" />
 
 </div>
 
