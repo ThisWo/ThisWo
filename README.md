@@ -42,8 +42,8 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-one-bice.vercel.app/api?username=ThisWo&show_icons=true&hide_border=true&title_color=F7B2C9&icon_color=F7B2C9&text_color=888888&bg_color=00000000&locale=zh-cn" alt="Stats" />
-<img height="160" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ThisWo&layout=compact&hide_border=true&title_color=F7B2C9&text_color=888888&bg_color=00000000&locale=zh-cn" alt="Top Languages" />
+<img height="160" src="https://github-readme-stats-one-bice.vercel.app/api?username=ThisWo&show_icons=true&hide_border=true&title_color=F7B2C9&icon_color=F7B2C9&text_color=888888&bg_color=00000000" alt="Stats" />
+<img height="160" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ThisWo&layout=compact&hide_border=true&title_color=F7B2C9&text_color=888888&bg_color=00000000" alt="Top Languages" />
 
 </div>
 
